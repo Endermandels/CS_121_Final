@@ -14,4 +14,4 @@ To run:
 
 ## Description
 
-	This program simulates Connect 4 using the tkinter library.  The user may choose to play against another human, against an AI, or have two AI's play against each other.  The AI predicts the best move by playing out every possible move down to a specified depth (ply).
+This program simulates Connect 4 using the tkinter library.  The user may choose to play against another human, against an AI, or have two AI's play against each other.  The AI predicts the best move by playing out every possible move down to a specified depth (ply).
